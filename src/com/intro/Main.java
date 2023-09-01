@@ -1,5 +1,7 @@
 package com.intro;
 
+import java.util.Date;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -12,5 +14,9 @@ public class Main {
         char letter = 'A';
 //        boolean values
         boolean isEligible = true;
+//        Reference types, importing from java.util pacakge
+        Date now =  new Date();
+        now.getTime();
+        System.out.println(now);
     }
 }
