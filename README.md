@@ -12,6 +12,10 @@ __So Far In this Repo we've covered:__
 + Escape Sequences
 + Variables
 + Strings
++ Reading Inputs
++ Formatting 
++ Expressions Example
++ Casting
 
 
 __About halfway through content. Looking forward to building simple applications after completing this beginners guide.__
