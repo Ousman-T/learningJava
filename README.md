@@ -16,6 +16,8 @@ __So Far In this Repo we've covered:__
 + Formatting 
 + Expressions Example
 + Casting
++ Operators
++ If Statements
 
 
 __About halfway through content. Looking forward to building simple applications after completing this beginners guide.__
