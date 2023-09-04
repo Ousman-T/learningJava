@@ -22,6 +22,16 @@ public class Loops {
             System.out.println(input);
         }
 
+        String[] fruits = {"apple", "mango", "orange"};
+
+        for (int i = 0; i < fruits.length; i++){
+            System.out.println(fruits[i]);
+        }
+//        forEach loop
+        for (String fruit : fruits){
+            System.out.println(fruit);
+        }
+
 //        do while loop
 //        do {
 //            System.out.println("Input: ");
