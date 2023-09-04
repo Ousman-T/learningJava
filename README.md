@@ -18,9 +18,15 @@ __So Far In this Repo we've covered:__
 + Casting
 + Operators
 + If Statements
++ Switch Statements
++ For Loops
++ While Loops
++ Do while loops
++ For Each loops
 
 
-__About halfway through content. Looking forward to building simple applications after completing this beginners guide.__
+
+__Virtually complete with content. Looking forward to building simple applications after completing this beginners guide.__
 
 
 __ __
